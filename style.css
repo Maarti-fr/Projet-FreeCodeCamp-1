@@ -1,1 +1,39 @@
-dddd
+* {
+    background: #CCCCCC;
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 30px;
+    text-align: center;
+}
+li{
+    text-align: left;
+    margin: 5px 15%; 
+}
+#title {
+    background: #3B3E44;
+    margin: -10px -10px 0px -10px;
+    padding: 30px 0px;
+    text-align: center;
+    text-shadow: 2px 2px 1px white;
+    font-size: 50px;
+}
+
+#image {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+#img-div {
+    text-align: center;
+    font-family: fantasy;
+}
+
+#tribute-link {
+    padding: 30px 0px;
+    text-align: center;
+}
